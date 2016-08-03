@@ -8,7 +8,7 @@ Have you ever wandering which beer to order at your local brewpub? They often ha
 
 1- Using the command line, initiate the script
 
-```bash
+```sh
 $ python3 choosemybeer-interactive.py
 ```
 
