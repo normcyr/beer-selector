@@ -6,16 +6,18 @@ Have you ever wandering which beer to order at your local brewpub? They often ha
 
 # Usage
 
-First, using the command line:
+1- Using the command line, initiate the script
 
-```
+```bash
 $ python3 choosemybeer-interactive.py
 ```
 
-Second, answer the questions asked.
+2- Answer the questions asked.
 
-Third, order the beer selected by the algorithm.
+3- Order the beer selected by the algorithm.
 
-Fouth, quench your thirst and enjoy your beer!
+4- Quench your thirst and enjoy your beer!
+
+5- Repeat, if needed.
 
 Cheers!
